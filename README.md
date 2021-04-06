@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Csaba
+### Hi there 👋, my name is Csaba.
 #### I am a husband, father of 3 cool kids, self-taught front-end developer constantly under construction.
 
 
