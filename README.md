@@ -5,7 +5,7 @@
 Skills: HTML / CSS/ SASS / JAVASCRIPT 
 
 - 🔭 I’m currently working on a wordpress page with PHP. 
-- 🌱 I’m currently learning PHP.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on open projects. 
 - ⚡ Fun fact: I'm currently preparing for the JLPT5 (japanese) test.
 
